@@ -8,3 +8,5 @@ Este branch publica só o build estático do jogo **Torres do Reino** (versão 0
 - Ainda sem som (fase 5).
 - Fora dos buscadores durante a fase de teste (`noindex` e `robots.txt`).
 - Nada é enviado a servidor nenhum. O placar e a medição de desempenho (`#medir`) ficam no seu aparelho.
+
+Publicação de 2026-11-11 refeita em 2026-11-12: o build do GitHub Pages ficou preso na fila do GitHub Actions; o conteúdo publicado é o mesmo (build `eb86d9d`).
