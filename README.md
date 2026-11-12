@@ -1,12 +1,12 @@
-# Torres do Reino: prévia jogável da fase 4
+# Torres do Reino 1.0.0
 
-Este branch publica só o build estático do jogo **Torres do Reino** (versão 0.1.0, fase 4, placar e PWA). O build foi gerado em 2026-11-11 a partir do commit `eb86d9d` do repositório de desenvolvimento. O verificador de publicação aprovou o build: sem marcador de teste, sem URL de terceiros, sem source map, com CSP, toda mídia com a linha de licença, e manifesto, ícones e service worker conferidos (regras P1 a P7).
+Este branch publica só o build estático do jogo **Torres do Reino**, versão 1.0.0, a primeira versão pública. O build foi gerado em 2026-11-12 a partir do commit `74cd1b4` do repositório de desenvolvimento. O verificador de publicação aprovou o build: sem marcador de teste, sem URL de terceiros, sem source map, com CSP, toda mídia com a linha de licença, avisos das licenças do código de terceiros (`LICENCAS-TERCEIROS.txt`), e manifesto, ícones e service worker conferidos.
 
-- Conteúdo final da v1: 1 mapa, 5 torres com 2 melhorias, 20 ondas, chefe nas ondas 10 e 20. Dados fictícios.
-- Novo na fase 4: placar dos 10 melhores, guardado só neste aparelho; jogo instalável e jogável sem internet depois da primeira abertura; aviso de versão nova fora da partida; capa e ícone do autor do jogo; prévia da torre e do alcance antes de construir.
+Jogue em https://paineis-gerenciais.github.io/torres-do-reino/
+
+- Defesa de torres medieval: 1 mapa, 5 torres com 2 melhorias cada, 20 ondas com chefe nas ondas 10 e 20, velocidades 1×, 2× e 3×. Dados fictícios.
+- Placar dos 10 melhores, guardado só neste aparelho. Nada é enviado a servidor nenhum.
+- Instalável e jogável sem internet depois da primeira abertura; o aviso de versão nova só aparece fora da partida.
+- Joga-se por toque, mouse ou teclado.
 - Arte CC0 de Kenney (Tiny Dungeon e Tiny Town), com adaptações, e capa e ícone cedidos pelo autor do jogo. Os créditos estão na tela "Sobre".
-- Ainda sem som (fase 5).
-- Fora dos buscadores durante a fase de teste (`noindex` e `robots.txt`).
-- Nada é enviado a servidor nenhum. O placar e a medição de desempenho (`#medir`) ficam no seu aparelho.
-
-Publicação de 2026-11-11 refeita em 2026-11-12: o build do GitHub Pages ficou preso na fila do GitHub Actions; o conteúdo publicado é o mesmo (build `eb86d9d`).
+- Sem som nesta versão.
